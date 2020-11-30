@@ -1,0 +1,6 @@
+msnCode,description,units
+CLPRB,Coal production,Billion Btu
+PAPRB,Crude oil production (including lease condensate),Billion Btu
+NGMPB,Natural gas marketed production,Billion Btu
+NUETB,"Nuclear energy consumed for electricity generation, total",Billion Btu
+REPRB,Renewable energy production.  ,Billion Btu

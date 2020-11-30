@@ -1,5 +1,8 @@
 # mac directory index files
-.DS_Store
+*.DS_Store
+
+# python notebook checkpoints
+*.ipynb_checkpoints
 
 # Local .terraform directories
 **/.terraform/*

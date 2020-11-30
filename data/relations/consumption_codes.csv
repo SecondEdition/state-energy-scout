@@ -1,0 +1,31 @@
+Code,Description,Units
+CLTXB,Coal total end-use consumption,Billion Btu
+CLRCB,Coal consumed by the residential sector,Billion Btu
+CLCCB,Coal consumed by the commercial sector,Billion Btu
+CLICB,Coal consumed by the industrial sector,Billion Btu
+CLACB,Coal consumed by the transportation sector,Billion Btu
+CLEIB,Coal consumed by the electric power sector,Billion Btu
+PATCB,All petroleum products total consumption,Billion Btu
+PARCB,All petroleum products consumed by the residential sector,Billion Btu
+PACCB,All petroleum products consumed by the commercial sector,Billion Btu
+PAICB,All petroleum products consumed by the industrial sector,Billion Btu
+PAACB,All petroleum products consumed by the transportation sector,Billion Btu
+PAEIB,All petroleum products consumed by the electric power sector,Billion Btu
+NGTXB,Natural gas total end-use consumption,Billion Btu
+NGRCB,Natural gas consumed by (delivered to) the residential sector,Billion Btu
+NGCCB,Natural gas consumed by (delivered to) the commercial sector,Billion Btu
+NGICB,Natural gas consumed by (delivered to) the industrial sector,Billion Btu
+NGACB,Natural gas consumed by the transportation sector ,Billion Btu
+NGEIB,Natural gas consumed by the electric power sector,Billion Btu
+NUETB,"Nuclear energy consumed for electricity generation, total",Billion Btu
+RETCB,Renewable energy total consumption,Billion Btu
+RERCB ,Renewable energy consumed by the residential sector ,Billion Btu
+RECCB ,Renewable energy consumed by the commercial sector,Billion Btu
+REICB ,Renewable energy consumed by the industrial sector,Billion Btu
+REACB ,Renewable energy consumed by the transportation sector,Billion Btu
+REEIB ,Renewable energy consumed by the electric power sector ,Billion Btu
+TNSCB,"Total net energy consumption, adjusted for process fuel, intermediate products, and fuels with no direct cost",Billion Btu
+TNRSB,"Total net energy consumed by the residential sector, adjusted for process fuel, intermediate products, and fuels with no direct cost",Billion Btu
+TNCSB,"Total net energy consumed by the commercial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost",Billion Btu
+TNISB,"Total net energy consumed by the industrial sector, adjusted for process fuel, intermediate products, and fuels with no direct cost",Billion Btu
+TNASB,"Total net energy consumed by the transportation sector, adjusted for process fuel, intermediate products, and fuels with no direct cost",Billion Btu
