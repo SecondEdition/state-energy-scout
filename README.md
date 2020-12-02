@@ -5,7 +5,7 @@ Final Project Assignment for CU's 3287 - Database Systems and Design
 https://www.eia.gov/state/seds/seds-data-complete.php?sid=US
 
 ## Project Writeup
-[Energy Scout Final Project Report](Energy Scout Writeup.pdf)
+[Energy Scout Final Project Report](./Energy%20Scout%20Writeup.pdf)
 
 ## Project Video
 [Youtube link]()
@@ -23,4 +23,6 @@ The python code used to convert the original data files into a format matching t
 The final data after being converted into relation format is in the '/data/relations' folder.<br>
 <br>
 Some example queries that can be run in the Metabase app are included in the '/example_queries.sql' file.<br>
-
+<br>
+A preview of the Metabase app's main dashboard is provided in the '/preview.pdf' file. <br>
+<br>
