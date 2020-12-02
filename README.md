@@ -1,5 +1,5 @@
 # state-energy-scout
-Final Project Assignment for CU's 3287 - Database Systems and Design
+Final Project Assignment for Design and Analysis of Data Systems class at CU
 
 ## Data Source
 https://www.eia.gov/state/seds/seds-data-complete.php?sid=US
