@@ -27,3 +27,9 @@ Some example queries that can be run in the Metabase app are included in the '/e
 <br>
 A preview of the Metabase app's main dashboard is provided in the '/preview.pdf' file. <br>
 <br>
+## Improvements that should be made
+ - Convert Jupyter notebook into pure python with virtualenv defined in a requirements.txt file to ease future development. 
+ - Integrate with eia.gov data source API to automate the data prep and update. 
+ - Add primary indexes to Production and Consumption tables (largest and most queried, not updated very often) to improve query time.
+ - Add additional constraints such as cascade deletion to the year table. 
+ - Create inherited tables for production and consumption tables that are in commonly queried year blocks, such as per decade. 
