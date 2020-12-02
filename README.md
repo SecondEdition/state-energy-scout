@@ -1,7 +1,8 @@
 # state-energy-scout
-Final Project Assignment for CU's 3287 - Database Systems and Design
+Final Project Assignment for Design and Analysis of Data Systems class at CU
 
 ## Data Source
+Data is sourced from the U.S. Energy Information Adminstration website:<br>
 https://www.eia.gov/state/seds/seds-data-complete.php?sid=US
 
 ## Project Writeup
@@ -26,3 +27,9 @@ Some example queries that can be run in the Metabase app are included in the '/e
 <br>
 A preview of the Metabase app's main dashboard is provided in the '/preview.pdf' file. <br>
 <br>
+## Improvements that should be made
+ - Convert Jupyter notebook into pure python with virtualenv defined in a requirements.txt file to ease future development. 
+ - Integrate with eia.gov data source API to automate the data prep and update. 
+ - Add primary indexes to Production and Consumption tables (largest and most queried, not updated very often) to improve query time.
+ - Add additional constraints such as cascade deletion to the year table. 
+ - Create inherited tables for production and consumption tables that are in commonly queried year blocks, such as per decade. 
