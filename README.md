@@ -2,6 +2,7 @@
 Final Project Assignment for Design and Analysis of Data Systems class at CU
 
 ## Data Source
+Data is sourced from the U.S. Energy Information Adminstration website:
 https://www.eia.gov/state/seds/seds-data-complete.php?sid=US
 
 ## Project Writeup
