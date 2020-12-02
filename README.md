@@ -8,7 +8,7 @@ https://www.eia.gov/state/seds/seds-data-complete.php?sid=US
 [Energy Scout Final Project Report](./Energy%20Scout%20Writeup.pdf)
 
 ## Project Video
-[Youtube link]()
+[Youtube link](https://youtu.be/YZBkOcKBYEg)
 
 ## Metabase App Link
 [Energy Scout App](https://energy-scout.herokuapp.com/)
